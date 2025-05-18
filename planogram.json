@@ -1,0 +1,792 @@
+{
+  "data": [
+    [
+      {
+        "CB": "7501954905043",
+        "Nombre": "AGUA BIOLEVE 1.5 LTS",
+        "Charola": 9,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271154695",
+        "Nombre": "AGUA ALCALINA VITAWA 1.5 LTS",
+        "Charola": 9,
+        "Posicion": 2,
+        "Frentes": 2,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271153674",
+        "Nombre": "AGUA ALCALINA VITAWA 1LT",
+        "Charola": 9,
+        "Posicion": 3,
+        "Frentes": 2,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271154718",
+        "Nombre": "Agua Bioleve 1L 6pack",
+        "Charola": 9,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271158273",
+        "Nombre": "AGUA PURIFICADA BIOLEVE 0.5L 8 PACK",
+        "Charola": 9,
+        "Posicion": 5,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ],
+    [
+      {
+        "CB": "7501954905043",
+        "Nombre": "AGUA BIOLEVE 1.5 LTS",
+        "Charola": 8,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506425651061",
+        "Nombre": "Shampoo KleenBebe Manzanilla 250ml",
+        "Charola": 8,
+        "Posicion": 2,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271153674",
+        "Nombre": "AGUA ALCALINA VITAWA 1LT",
+        "Charola": 8,
+        "Posicion": 3,
+        "Frentes": 2,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271154718",
+        "Nombre": "Agua Bioleve 1L 6pack",
+        "Charola": 8,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271158273",
+        "Nombre": "AGUA PURIFICADA BIOLEVE 0.5L 8 PACK",
+        "Charola": 8,
+        "Posicion": 5,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058623188",
+        "Nombre": "NAN 1 OPTIPRO Formula Infantil 12x400gMX",
+        "Charola": 8,
+        "Posicion": 6,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058623195",
+        "Nombre": "NAN 2 OPTIPRO Formula Infantil 12x400gMX",
+        "Charola": 8,
+        "Posicion": 7,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058623201",
+        "Nombre": "NAN 3 OPTIPRO FI Lata 12x400g MX",
+        "Charola": 8,
+        "Posicion": 8,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ],
+    [
+      {
+        "CB": "7502271155968",
+        "Nombre": "DETERGENTE AZALEA MULTIUSOS 800G",
+        "Charola": 7,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506425651061",
+        "Nombre": "Shampoo KleenBebe Manzanilla 250ml",
+        "Charola": 7,
+        "Posicion": 2,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271158891",
+        "Nombre": "PAPEL HIGIENICO AZALEA 4S CON AROMA",
+        "Charola": 7,
+        "Posicion": 3,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502294220513",
+        "Nombre": "Papel Higiénico Azálea 6 Rollos 500 Hojas",
+        "Charola": 7,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271154114",
+        "Nombre": "Tikytin Ultra talla 5 X-Grande 36/4",
+        "Charola": 7,
+        "Posicion": 5,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058623188",
+        "Nombre": "NAN 1 OPTIPRO Formula Infantil 12x400gMX",
+        "Charola": 7,
+        "Posicion": 6,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058623195",
+        "Nombre": "NAN 2 OPTIPRO Formula Infantil 12x400gMX",
+        "Charola": 7,
+        "Posicion": 7,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058623201",
+        "Nombre": "NAN 3 OPTIPRO FI Lata 12x400g MX",
+        "Charola": 7,
+        "Posicion": 8,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ],
+    [
+      {
+        "CB": "7502271155968",
+        "Nombre": "DETERGENTE AZALEA MULTIUSOS 800G",
+        "Charola": 6,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506425645466",
+        "Nombre": "Higienico Suavel 325h 4rollos",
+        "Charola": 6,
+        "Posicion": 2,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506425622016",
+        "Nombre": "Higienico Cottonelle Elegance XL 252h",
+        "Charola": 6,
+        "Posicion": 3,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506425600748",
+        "Nombre": "Hig Petalo UltraJumbo 6s 234h",
+        "Charola": 6,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ],
+    [
+      {
+        "CB": "7502271154633",
+        "Nombre": "Chicharron de Cerdo Natural Bitz 120 gr",
+        "Charola": 5,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506425645466",
+        "Nombre": "Higienico Suavel 325h 4rollos",
+        "Charola": 5,
+        "Posicion": 2,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506425622016",
+        "Nombre": "Higienico Cottonelle Elegance XL 252h",
+        "Charola": 5,
+        "Posicion": 3,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506425600748",
+        "Nombre": "Hig Petalo UltraJumbo 6s 234h",
+        "Charola": 5,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501000266203",
+        "Nombre": "Papas Chips Barcel 170 gr bolsa con sal",
+        "Charola": 5,
+        "Posicion": 5,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7500810018378",
+        "Nombre": "Takis Blue 75g",
+        "Charola": 5,
+        "Posicion": 6,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ],
+    [
+      {
+        "CB": "7502294221763",
+        "Nombre": "CAFE SOLUBLE ANDATTI DESCAFEINADO 275G",
+        "Charola": 4,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502294221626",
+        "Nombre": "Chicharron de Cerdo Intenso Bitz 120 gr.",
+        "Charola": 4,
+        "Posicion": 2,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502294221138",
+        "Nombre": "ACEITE VEGETAL LA POSADA 800 ML",
+        "Charola": 4,
+        "Posicion": 3,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501039121610",
+        "Nombre": "Aceite Comestible Nutrioli 850ml",
+        "Charola": 4,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501039121993",
+        "Nombre": "ACEITE NUTRIOLI 400 ML",
+        "Charola": 4,
+        "Posicion": 5,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501039122099",
+        "Nombre": "Sabrosano Mantequila 850 ml",
+        "Charola": 4,
+        "Posicion": 6,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501052421391",
+        "Nombre": "Frijol La Sierra Chorizo 430 bolsa",
+        "Charola": 4,
+        "Posicion": 7,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501954908914",
+        "Nombre": "Frijol Pinto La Posada 900gr",
+        "Charola": 4,
+        "Posicion": 8,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ],
+    [
+      {
+        "CB": "7502294221763",
+        "Nombre": "CAFE SOLUBLE ANDATTI DESCAFEINADO 275G",
+        "Charola": 3,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271155920",
+        "Nombre": "Cafe Soluble Andatti 275g",
+        "Charola": 3,
+        "Posicion": 2,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502294221138",
+        "Nombre": "ACEITE VEGETAL LA POSADA 800 ML",
+        "Charola": 3,
+        "Posicion": 3,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058628831",
+        "Nombre": "CARNATION Leche Evaporada 720g",
+        "Charola": 3,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271156736",
+        "Nombre": "Azucar Estandar La Posada 1 kg",
+        "Charola": 3,
+        "Posicion": 5,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501954907788",
+        "Nombre": "Arroz La Posada 900 gr",
+        "Charola": 3,
+        "Posicion": 6,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501052421391",
+        "Nombre": "Frijol La Sierra Chorizo 430 bolsa",
+        "Charola": 3,
+        "Posicion": 7,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501954908914",
+        "Nombre": "Frijol Pinto La Posada 900gr",
+        "Charola": 3,
+        "Posicion": 8,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ],
+    [
+      {
+        "CB": "7502271153605",
+        "Nombre": "PLC NUTRALAT FORTE 1.5 LT",
+        "Charola": 2,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501954903292",
+        "Nombre": "PLC NUTRALAT FORTE 1LT",
+        "Charola": 2,
+        "Posicion": 2,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501059278868",
+        "Nombre": "La Lechera Sirve Facil 335gr Bote",
+        "Charola": 2,
+        "Posicion": 3,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058628831",
+        "Nombre": "CARNATION Leche Evaporada 720g",
+        "Charola": 2,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502271156736",
+        "Nombre": "Azucar Estandar La Posada 1 kg",
+        "Charola": 2,
+        "Posicion": 5,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501954907788",
+        "Nombre": "Arroz La Posada 900 gr",
+        "Charola": 2,
+        "Posicion": 6,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501954903421",
+        "Nombre": "Papel aluminio festivo rollo 76 m X 30 cm pz",
+        "Charola": 2,
+        "Posicion": 7,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ],
+    [
+      {
+        "CB": "7506425612673",
+        "Nombre": "Kotex Notcurna Ultradelgada CA 10s",
+        "Charola": 1,
+        "Posicion": 1,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506339394719",
+        "Nombre": "Naturella Nocturna con alas 8 pzas",
+        "Charola": 1,
+        "Posicion": 2,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501045404271",
+        "Nombre": "Atun Mazatun Agua Sin Soya 130grs",
+        "Charola": 1,
+        "Posicion": 3,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501045404066",
+        "Nombre": "DOLORES ENSALADA CON VERDURAS MAXI CUP CAN 240gr",
+        "Charola": 1,
+        "Posicion": 4,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7791293025810",
+        "Nombre": "Desodorante AXE Fusion 150ml",
+        "Charola": 1,
+        "Posicion": 5,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7791293032436",
+        "Nombre": "Desodorante Rexona AER 90gr",
+        "Charola": 1,
+        "Posicion": 6,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501954903421",
+        "Nombre": "Papel aluminio festivo rollo 76 m X 30 cm pz",
+        "Charola": 1,
+        "Posicion": 7,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7500435143189",
+        "Nombre": "Secret Barra Powder Protect 45g",
+        "Charola": 1,
+        "Posicion": 8,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7500435231237",
+        "Nombre": "SHAMPOO HEAD AND SHOULDERS ANTI-COMEZON 375ML",
+        "Charola": 1,
+        "Posicion": 9,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7500435243155",
+        "Nombre": "PANTENE SHAMPOO KERATINA 175ML",
+        "Charola": 1,
+        "Posicion": 10,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501000904228",
+        "Nombre": "Alimento para bebe 2a Etapa Gerber 113 gr frasco Verduras con pollo y arroz",
+        "Charola": 1,
+        "Posicion": 11,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7506306246065",
+        "Nombre": "Zest Neutro Antibacterial 135gr",
+        "Charola": 1,
+        "Posicion": 12,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501055304745",
+        "Nombre": "REFRESCO COCA-COLA 3 LT BOTELLA NO RETORNABLE COLA",
+        "Charola": 1,
+        "Posicion": 13,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501055317653",
+        "Nombre": "POWERADE MORAST",
+        "Charola": 1,
+        "Posicion": 14,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501055358861",
+        "Nombre": "FUZE TEA NEGRO SABOR LIMONT",
+        "Charola": 1,
+        "Posicion": 15,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501954906644",
+        "Nombre": "Cafe Molido Andatti 250gr",
+        "Charola": 1,
+        "Posicion": 16,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "650240064326",
+        "Nombre": "SUEROX MORA AZUL CON HIERBABUENA 1L",
+        "Charola": 1,
+        "Posicion": 17,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501011143586",
+        "Nombre": "CHEETOS TORCIDITOS 58GR",
+        "Charola": 1,
+        "Posicion": 18,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501011123588",
+        "Nombre": "DORITOS NACHO 61GR",
+        "Charola": 1,
+        "Posicion": 19,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501045403823",
+        "Nombre": "Atun Dorado Aceite 285grs",
+        "Charola": 1,
+        "Posicion": 20,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501058631961",
+        "Nombre": "NESTLE LA LECHERA CONDENSADA DOYPACK 209 GR",
+        "Charola": 1,
+        "Posicion": 21,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7501943471900",
+        "Nombre": "Toallitas Humedas KBB Absorsec 120pz",
+        "Charola": 1,
+        "Posicion": 22,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      },
+      {
+        "CB": "7502247337169",
+        "Nombre": "Papel Higienico Premier 225 hojas dobles 6 rollos",
+        "Charola": 1,
+        "Posicion": 23,
+        "Frentes": 1,
+        "Altura": null,
+        "Ancho": null,
+        "Profundo": null
+      }
+    ]
+  ]
+}

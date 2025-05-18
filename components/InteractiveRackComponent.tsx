@@ -1,9 +1,9 @@
-import { StyleSheet, View, Image, ScrollView, Text } from "react-native";
-import images from "../images.json";
+import { StyleSheet, View, Image, TouchableOpacity, ScrollView } from "react-native";
 
 // STYLES
 import colors from "../styles/Colors";
 import { hs, vs } from "../styles/Responsiveness";
+import images from '../images.json';
 
 const placeholderImages = [
     'https://images.rappi.com.mx/products/978114258-1620015273626.png?d=100x100&e=webp&q=50',
@@ -14,20 +14,23 @@ const placeholderImages = [
     'https://images.rappi.com.mx/products/bd300c36-5714-493e-84d2-48f4b78e1994.png?d=10x10&e=webp&q=10'
 ]
 
-export default function RackComponent({data}: { data: any[][] }) {
+export default function InteractiveRackComponent({data, onPress}: { data: any[][], onPress?: (rowIndex: number, colIndex: number) => void }) {
     if(!data || data.length === 0) {
-        data = Array.from({length: Math.floor(Math.random() * 3) + 2}, () => Array.from({length: Math.floor(Math.random() * 7) + 2}, () => ''));
+        data = Array.from({length: Math.floor(Math.random() * 3) + 2}, () => Array.from({length: Math.floor(Math.random() * 7) + 2}, () => ({
+            wrong: Math.random() < 0.5,
+            corrected: false,
+        })));
     }
 
     return (
-        <ScrollView style={{ maxHeight: hs(250) }}>
+            <ScrollView style={{ maxHeight: hs(250) }}>
             {
                 data.map((row, rowIndex) => (
                     <View key={rowIndex} style={styles.row}>
                         {
                             row.map((cell, colIndex) => {
                                 return (
-                                    <View
+                                    <TouchableOpacity
                                         key={colIndex}
                                         style={[
                                             styles.cell,
@@ -36,9 +39,16 @@ export default function RackComponent({data}: { data: any[][] }) {
                                                 borderLeftWidth: colIndex === 0 ? 0 : 2,
                                                 borderBottomWidth: rowIndex === data.length - 1 ? 0 : 2,
                                                 borderRightWidth: colIndex === row.length - 1 ? 0 : 2,
+                                                backgroundColor: cell.wrong && !cell.corrected ? colors.lightRed : cell.wrong && cell.corrected ? colors.lightYellow : colors.background,
                                             }
                                         ]}
-                                    >
+                                        activeOpacity={ cell.wrong || cell.corrected ? 0.5 : 1 }
+                                        onPress={() => {
+                                            if((cell.wrong || cell.corrected) && onPress) {
+                                                onPress(rowIndex, colIndex);
+                                            }
+                                        }}
+                                    > 
                                         <Image
                                             source={{ uri: images.images[cell.CB]?.url || placeholderImages[Math.floor(Math.random() * placeholderImages.length)] }}
                                             style={{
@@ -50,7 +60,7 @@ export default function RackComponent({data}: { data: any[][] }) {
                                             onLoad={() => {}}
                                             onError={() => {}}
                                         />
-                                    </View>
+                                    </TouchableOpacity>
                                 )
                             })
                         }
@@ -68,7 +78,7 @@ const styles = StyleSheet.create({
     },
     cell: {
         flex: 1,
-        height: vs(50),
+        height: vs(45),
         minWidth: hs(35),
         borderWidth: 1,
         borderColor: colors.yellow,
